@@ -1095,11 +1095,11 @@ section {
   padding: 0;
   margin: 0;
   width: 100%;
-  color: var(--color-black);
 }
 
 .skill-card-list li {
-  color: var(--color-text-secondary);
+  #color: var(--color-text-secondary);
+  color: var(--color-black);
   font-size: var(--font-size-sm);
   margin-bottom: var(--space-8);
   padding: var(--space-6) var(--space-12);
