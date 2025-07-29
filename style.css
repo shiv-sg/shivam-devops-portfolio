@@ -983,14 +983,14 @@ section {
   display: flex;
   align-items: center;
   gap: var(--space-12);
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-base);
   color: var(--color-text);
 }
 
 .hero-contact .contact-item i {
   color: var(--primary-blue);
   width: 16px;
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-base);
   flex-shrink: 0;
 }
 
